@@ -1,0 +1,8 @@
+# Raw generated data (regenerate with generate_data.py)
+duka_sales.csv
+agents.csv
+agent_transactions.csv
+
+# Notebook checkpoints and Python cache
+.ipynb_checkpoints/
+__pycache__/
